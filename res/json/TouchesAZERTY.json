@@ -1,0 +1,42 @@
+[
+    {
+        "Fonction": "Forward",
+        "Touche": 90
+    },
+    {
+        "Fonction": "Backward",
+        "Touche": 83
+    },
+    {
+        "Fonction": "Left",
+        "Touche": 81
+    },
+    {
+        "Fonction": "Right",
+        "Touche": 68
+    },
+    {
+        "Fonction": "Reset",
+        "Touche": 86
+    },
+    {
+        "Fonction": "Respawn",
+        "Touche": 82
+    },
+    {
+        "Fonction": "POV",
+        "Touche": 32
+    },
+    {
+        "Fonction": "Pause",
+        "Touche": 80
+    },
+    {
+        "Fonction": "NextCP",
+        "Touche": 79
+    },
+    {
+        "Fonction": "LastCP",
+        "Touche": 76
+    }
+]

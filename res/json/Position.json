@@ -1,0 +1,419 @@
+[
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Arbre",
+    "j_path": "res/mesh/Arbre.obj",
+    "j_position": {
+      "x": 317.0,
+      "y": 32.0,
+      "z": 438.0,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 22.0,
+      "y": 22.0,
+      "z": 22.0,
+      "n": 0
+    },
+    "j_typeshape": 4
+  },
+
+  {
+    "j_forward": {
+      "x": 0,
+      "y": -2.3,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Ronces",
+    "j_path": "res/mesh/Ronces.obj",
+    "j_position": {
+      "x": 174,
+      "y": 0,
+      "z": 260,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 6.1,
+      "y": 10.0,
+      "z": 6.4,
+      "n": 0
+    },
+    "j_typeshape": 3,
+    "j_scaleshape": {
+      "x": 40.0,
+      "y": 10.0,
+      "z": 40.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Rock",
+    "j_path": "res/mesh/Game/rock.obj",
+    "j_position": {
+      "x": 258,
+      "y": 113,
+      "z": 522,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 3.4,
+      "y": 2.1,
+      "z": 2.6,
+      "n": 0
+    }
+
+  },
+
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 3.14,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "boost",
+    "j_path": "res/mesh/Game/boost.obj",
+    "j_position": {
+      "x": 180,
+      "y": 60,
+      "z": 335,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 10.0,
+      "y": 10.0,
+      "z": 10.0,
+      "n": 0
+    }
+
+  },
+
+  {
+    "j_forward": {
+      "x": 4.5,
+      "y": 0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Salt Stalagtit",
+    "j_path": "res/mesh/Game/salt_sta/salt_sta.obj",
+    "j_position": {
+      "x": 866,
+      "y": 160,
+      "z": 141,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1,
+      "n": 0
+    }
+
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Finish Line",
+    "j_path": "res/mesh/Game/finishLine.obj",
+    "j_position": {
+      "x": 521,
+      "y": -1.5,
+      "z": 569,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 30,
+      "y": 30,
+      "z": 20,
+      "n": 0
+    }
+
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": -1.7,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Road Sign",
+    "j_path": "res/mesh/Game/sign.obj",
+    "j_position": {
+      "x": 891,
+      "y": 23,
+      "z": 433,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 50,
+      "y": 50,
+      "z": 50,
+      "n": 0
+    }
+
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "MushRoom",
+    "j_path": "res/mesh/mushroom.obj",
+    "j_position": {
+      "x": 169,
+      "y": 99,
+      "z": 628,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 38.0,
+      "y": 32.0,
+      "z": 41.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 1.55,
+      "y": 1.8,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Pedestal",
+    "j_path": "res/mesh/Game/Doric Pedestal.obj",
+    "j_position": {
+      "x": 426,
+      "y": 104,
+      "z": 306,
+      "n": 0
+    },
+    "j_scale": {
+      "x": 130.0,
+      "y": 130.0,
+      "z": 338.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": -1.5,
+      "y": 6.20,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Stone with moss",
+    "j_path": "res/mesh/Game/kivi.obj",
+    "j_position": {
+      "x": 659.9,
+      "y": 65.9,
+      "z": 477,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 17.1,
+      "y": 11.7,
+      "z": 7.5,
+      "n": 0
+    },
+    "j_typeshape": 1,
+    "j_scaleshape": {
+      "j_radius": 15
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Log_trouee",
+    "j_path": "res/mesh/Log_trouee.obj",
+    "j_position": {
+      "x": 310.0,
+      "y": 62.5,
+      "z": 770.0,
+      "n": 25
+    },
+    "j_scale": {
+        "x": 39.0,
+        "y": 60.0,
+        "z": 80.0,
+        "n": 0
+    },
+    "j_typeshape": 4
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": -2.3,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "MY BELOVED BNNY",
+    "j_path": "res/mesh/bunny.obj",
+    "j_position": {
+      "x": 938.0,
+      "y": 95.5,
+      "z": 953.0,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 100.0,
+      "y": 100.0,
+      "z": 100.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 3.5,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Checkpoint1",
+    "j_path": "res/mesh/Game/Cp.obj",
+    "j_position": {
+      "x": 305,
+      "y": 45,
+      "z": 840,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 5.0,
+      "y": 5.0,
+      "z": 5.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 4.5,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Checkpoint2",
+    "j_path": "res/mesh/Game/Cp.obj",
+    "j_position": {
+      "x": 178,
+      "y": 45,
+      "z": 722,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 5.0,
+      "y": 5.0,
+      "z": 5.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 3.5,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Checkpoint3",
+    "j_path": "res/mesh/Game/Cp.obj",
+    "j_position": {
+      "x": 180,
+      "y": 45,
+      "z": 540,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 5.0,
+      "y": 5.0,
+      "z": 5.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 8.0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Checkpoint4",
+    "j_path": "res/mesh/Game/Cp.obj",
+    "j_position": {
+      "x": 321,
+      "y": 55,
+      "z": 410,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 5.0,
+      "y": 5.0,
+      "z": 5.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Checkpoint5",
+    "j_path": "res/mesh/Game/Cp.obj",
+    "j_position": {
+      "x": 338,
+      "y": 55,
+      "z": 124,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 5.0,
+      "y": 5.0,
+      "z": 5.0,
+      "n": 0
+    }
+  },
+  {
+    "j_forward": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "n": 0.0
+    },
+    "j_Objet": "Checkpoint6",
+    "j_path": "res/mesh/Checkpoint.obj",
+    "j_position": {
+      "x": 876,
+      "y": 55,
+      "z": 473,
+      "n": 25
+    },
+    "j_scale": {
+      "x": 5.0,
+      "y": 5.0,
+      "z": 5.0,
+      "n": 0
+    }
+  }
+]
